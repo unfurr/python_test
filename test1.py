@@ -1,3 +1,3 @@
 import torch
 print(torch.cpu.is_available())
-print(111)
+print(1,1,1,sep=' ',end="/t")#sadisand
